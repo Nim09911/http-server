@@ -1,0 +1,7 @@
+{
+    "PATH": "/var/www/html/tmp/",
+    "Allow": "OPTIONS, HEAD, GET, POST, PUT, DELETE",
+    "KeepAlive": "On",
+    "KeepAliveTimeout": 10,
+    "MaxKeepAliveRequests": 5
+}
